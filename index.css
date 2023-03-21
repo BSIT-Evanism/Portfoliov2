@@ -51,8 +51,7 @@ nav ul li a.active:before {
     width: 100%;
     height: 1px;
     border-bottom: 2px solid black;
-    top: 9px;
-    transform: rotate(45deg);
+    bottom: -2px;
     
 }
 
